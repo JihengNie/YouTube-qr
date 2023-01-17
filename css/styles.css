@@ -1,0 +1,15 @@
+.img-holder {
+  background-color: gray;
+}
+
+.img-holder img {
+  object-fit: scale-down;
+  width: 100%;
+  height: 100vh;
+}
+
+.text {
+  border: solid red;
+  position: absolute;
+  top: 0;
+}
