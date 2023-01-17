@@ -1,3 +1,3 @@
-# ajax-project
+# YouTube QR
 
-A dynamic HTML, CSS, and JavaScript solo project.
+This is a qr code for my YouTube Channel
